@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/donate_id"
+            android:title="Donate"
+            ></item>
+        <item
+            android:id="@+id/id_information"
+            android:title="Information"
+            ></item>
+
+        <item
+            android:id="@+id/map_id"
+            android:title="Map"
+            ></item>
+
+        <item
+            android:id="@+id/requested_food"
+            android:title="Feed"
+            ></item>
+
+    </group>
+    <item android:title="">
+        <menu>
+            <item
+                android:title="Log Out"
+                android:id="@+id/log_out"
+                ></item>
+        </menu>
+    </item>
+</menu>

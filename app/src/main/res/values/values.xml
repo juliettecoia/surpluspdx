@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="darkGreen">#142d14</color>
+    <color name="paleBlue">#5675b4</color>
+    <color name="brightGreen">#38dd23</color>
+    <color name="greyBlue">#9abcd5</color>
+    <color name="lightGreen">#42713b</color>
+    <color name="Brown">#564327</color>
+    <color name="background_floating_material_dark">#ca2828</color>
+    <color name="backgroundGreen">#8ba7b6</color>
+    <color name="background_material_light">#4caf50</color>
+</resources>
